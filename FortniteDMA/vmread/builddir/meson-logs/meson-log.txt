@@ -1,0 +1,419 @@
+Build started at 2020-07-13T15:20:58.998266
+Main binary: /usr/bin/python3
+Python system: Linux
+The Meson build system
+Version: 0.45.1
+Source dir: /media/xaniety/354c4004-8ee6-49a2-ac86-d9fd4f4664d8/FortniteDMA/vmread
+Build dir: /media/xaniety/354c4004-8ee6-49a2-ac86-d9fd4f4664d8/FortniteDMA/vmread/builddir
+Build type: native build
+Project name: vmread
+Sanity testing C compiler: cc
+Is cross compiler: False.
+Sanity check compiler command line: cc /media/xaniety/354c4004-8ee6-49a2-ac86-d9fd4f4664d8/FortniteDMA/vmread/builddir/meson-private/sanitycheckc.c -o /media/xaniety/354c4004-8ee6-49a2-ac86-d9fd4f4664d8/FortniteDMA/vmread/builddir/meson-private/sanitycheckc.exe
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /media/xaniety/354c4004-8ee6-49a2-ac86-d9fd4f4664d8/FortniteDMA/vmread/builddir/meson-private/sanitycheckc.exe
+Native C compiler: cc (gcc 7.5.0 "cc (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0")
+Sanity testing C++ compiler: c++
+Is cross compiler: False.
+Sanity check compiler command line: c++ /media/xaniety/354c4004-8ee6-49a2-ac86-d9fd4f4664d8/FortniteDMA/vmread/builddir/meson-private/sanitycheckcpp.cc -o /media/xaniety/354c4004-8ee6-49a2-ac86-d9fd4f4664d8/FortniteDMA/vmread/builddir/meson-private/sanitycheckcpp.exe
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /media/xaniety/354c4004-8ee6-49a2-ac86-d9fd4f4664d8/FortniteDMA/vmread/builddir/meson-private/sanitycheckcpp.exe
+Native C++ compiler: c++ (gcc 7.5.0 "c++ (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0")
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+Running compile:
+Working directory:  /tmp/tmpxa9dm2qs
+Command line:  cc /tmp/tmpxa9dm2qs/testfile.c -O0 -Weverything -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmpxa9dm2qs/output.obj 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ cc: error: unrecognized command line option ‘-Weverything’
+
+Compiler for C supports argument -Weverything: NO
+Running compile:
+Working directory:  /tmp/tmp27qudpzq
+Command line:  c++ /tmp/tmp27qudpzq/testfile.cpp -O0 -fpermissive -Weverything -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmp27qudpzq/output.obj 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ c++: error: unrecognized command line option ‘-Weverything’
+
+Compiler for C++ supports argument -Weverything: NO
+Running compile:
+Working directory:  /tmp/tmpy_7e6ewy
+Command line:  cc /tmp/tmpy_7e6ewy/testfile.c -O0 -Wno-padded -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmpy_7e6ewy/output.obj 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports argument -Wno-padded: YES
+Running compile:
+Working directory:  /tmp/tmpn4llqe0p
+Command line:  c++ /tmp/tmpn4llqe0p/testfile.cpp -O0 -fpermissive -Wno-padded -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmpn4llqe0p/output.obj 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C++ supports argument -Wno-padded: YES
+Running compile:
+Working directory:  /tmp/tmpu_xi4bsi
+Command line:  cc /tmp/tmpu_xi4bsi/testfile.c -O0 -Wno-sign-conversion -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmpu_xi4bsi/output.obj 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports argument -Wno-sign-conversion: YES
+Running compile:
+Working directory:  /tmp/tmpk_3gdkrt
+Command line:  c++ /tmp/tmpk_3gdkrt/testfile.cpp -O0 -fpermissive -Wno-sign-conversion -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmpk_3gdkrt/output.obj 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C++ supports argument -Wno-sign-conversion: YES
+Running compile:
+Working directory:  /tmp/tmpro6frsps
+Command line:  cc /tmp/tmpro6frsps/testfile.c -O0 -Wno-padded -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmpro6frsps/output.obj 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports argument -Wno-padded: YES
+Running compile:
+Working directory:  /tmp/tmpc19ll3_g
+Command line:  c++ /tmp/tmpc19ll3_g/testfile.cpp -O0 -fpermissive -Wno-padded -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmpc19ll3_g/output.obj 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C++ supports argument -Wno-padded: YES
+Running compile:
+Working directory:  /tmp/tmpp2u7tx5x
+Command line:  cc /tmp/tmpp2u7tx5x/testfile.c -O0 -Wno-documentation-unknown-command -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmpp2u7tx5x/output.obj 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports argument -Wno-documentation-unknown-command: YES
+Running compile:
+Working directory:  /tmp/tmpl50uwwr1
+Command line:  c++ /tmp/tmpl50uwwr1/testfile.cpp -O0 -fpermissive -Wno-documentation-unknown-command -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmpl50uwwr1/output.obj 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C++ supports argument -Wno-documentation-unknown-command: YES
+Running compile:
+Working directory:  /tmp/tmpbcy_0_cb
+Command line:  cc /tmp/tmpbcy_0_cb/testfile.c -O0 -Wno-missing-variable-declarations -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmpbcy_0_cb/output.obj 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports argument -Wno-missing-variable-declarations: YES
+Running compile:
+Working directory:  /tmp/tmp29o0agtv
+Command line:  c++ /tmp/tmp29o0agtv/testfile.cpp -O0 -fpermissive -Wno-missing-variable-declarations -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmp29o0agtv/output.obj 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C++ supports argument -Wno-missing-variable-declarations: YES
+Running compile:
+Working directory:  /tmp/tmp9ztxaiip
+Command line:  cc /tmp/tmp9ztxaiip/testfile.c -O0 -Wno-c++98-compat -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmp9ztxaiip/output.obj 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports argument -Wno-c++98-compat: YES
+Running compile:
+Working directory:  /tmp/tmp3vjukoci
+Command line:  c++ /tmp/tmp3vjukoci/testfile.cpp -O0 -fpermissive -Wno-c++98-compat -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmp3vjukoci/output.obj 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C++ supports argument -Wno-c++98-compat: YES
+Running compile:
+Working directory:  /tmp/tmpqvrjzcew
+Command line:  cc /tmp/tmpqvrjzcew/testfile.c -O0 -Wno-c++98-compat-pedantic -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmpqvrjzcew/output.obj 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports argument -Wno-c++98-compat-pedantic: YES
+Running compile:
+Working directory:  /tmp/tmpd82lnp9s
+Command line:  c++ /tmp/tmpd82lnp9s/testfile.cpp -O0 -fpermissive -Wno-c++98-compat-pedantic -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmpd82lnp9s/output.obj 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C++ supports argument -Wno-c++98-compat-pedantic: YES
+Running compile:
+Working directory:  /tmp/tmps8w_060m
+Command line:  cc /tmp/tmps8w_060m/testfile.c -O0 -Wno-weak-vtables -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmps8w_060m/output.obj 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports argument -Wno-weak-vtables: YES
+Running compile:
+Working directory:  /tmp/tmp9hgtt33g
+Command line:  c++ /tmp/tmp9hgtt33g/testfile.cpp -O0 -fpermissive -Wno-weak-vtables -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmp9hgtt33g/output.obj 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C++ supports argument -Wno-weak-vtables: YES
+Running compile:
+Working directory:  /tmp/tmp_p1uv8di
+Command line:  cc /tmp/tmp_p1uv8di/testfile.c -O0 -Wl,--start-group -Wl,--start-group -lX11 -Wl,--end-group -Wl,--end-group -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmp_p1uv8di/output.obj 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports argument -lX11: YES
+Running compile:
+Working directory:  /tmp/tmpssqir2zl
+Command line:  c++ /tmp/tmpssqir2zl/testfile.cpp -O0 -fpermissive -Wl,--start-group -Wl,--start-group -lX11 -Wl,--end-group -Wl,--end-group -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmpssqir2zl/output.obj 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C++ supports argument -lX11: YES
+Running compile:
+Working directory:  /tmp/tmpdvaksntk
+Command line:  cc /tmp/tmpdvaksntk/testfile.c -O0 -pthread -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmpdvaksntk/output.obj 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports argument -pthread: YES
+Running compile:
+Working directory:  /tmp/tmpgazz_auo
+Command line:  c++ /tmp/tmpgazz_auo/testfile.cpp -O0 -fpermissive -pthread -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmpgazz_auo/output.obj 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C++ supports argument -pthread: YES
+Running compile:
+Working directory:  /tmp/tmp6rkiv3kk
+Command line:  c++ /tmp/tmp6rkiv3kk/testfile.cpp -O0 -fpermissive -Wno-padded -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmp6rkiv3kk/output.obj 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C++ supports argument -Wno-padded: YES
+Running compile:
+Working directory:  /tmp/tmpkl4dtmvh
+Command line:  c++ /tmp/tmpkl4dtmvh/testfile.cpp -O0 -fpermissive -Wno-c++98-compat -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmpkl4dtmvh/output.obj 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C++ supports argument -Wno-c++98-compat: YES
+Running compile:
+Working directory:  /tmp/tmpv_8owz4p
+Command line:  c++ /tmp/tmpv_8owz4p/testfile.cpp -O0 -fpermissive -Wno-padded -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmpv_8owz4p/output.obj 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C++ supports argument -Wno-padded: YES
+Running compile:
+Working directory:  /tmp/tmp1p9zw1z3
+Command line:  c++ /tmp/tmp1p9zw1z3/testfile.cpp -O0 -fpermissive -Wno-c++98-compat-pedantic -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmp1p9zw1z3/output.obj 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C++ supports argument -Wno-c++98-compat-pedantic: YES
+Running compile:
+Working directory:  /tmp/tmpa5mqxjz6
+Command line:  c++ /tmp/tmpa5mqxjz6/testfile.cpp -O0 -fpermissive -Wno-weak-vtables -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmpa5mqxjz6/output.obj 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C++ supports argument -Wno-weak-vtables: YES
+Running compile:
+Working directory:  /tmp/tmppg60luy6
+Command line:  c++ /tmp/tmppg60luy6/testfile.cpp -O0 -fpermissive -Wno-documentation-unknown-command -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmppg60luy6/output.obj 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C++ supports argument -Wno-documentation-unknown-command: YES
+Running compile:
+Working directory:  /tmp/tmpj4fcs_s3
+Command line:  c++ /tmp/tmpj4fcs_s3/testfile.cpp -O0 -fpermissive -Wno-old-style-cast -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmpj4fcs_s3/output.obj 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C++ supports argument -Wno-old-style-cast: YES
+Running compile:
+Working directory:  /tmp/tmpcwei7rpn
+Command line:  cc /tmp/tmpcwei7rpn/testfile.c -O0 -Wno-missing-prototypes -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmpcwei7rpn/output.obj 
+
+Code:
+ int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports argument -Wno-missing-prototypes: YES
+Running compile:
+Working directory:  /tmp/tmp4shnnzt8
+Command line:  cc /tmp/tmp4shnnzt8/testfile.c -O0 -Wl,--start-group -ldl -Wl,--end-group -pipe -D_FILE_OFFSET_BITS=64 -o /tmp/tmp4shnnzt8/output.exe 
+
+Code:
+ int main(int argc, char **argv) { return 0; }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Library dl found: YES
+Running compile:
+Working directory:  /tmp/tmpze0vxvz5
+Command line:  cc /tmp/tmpze0vxvz5/testfile.c -O0 -Wl,--start-group -lpthread -Wl,--end-group -pipe -D_FILE_OFFSET_BITS=64 -o /tmp/tmpze0vxvz5/output.exe 
+
+Code:
+ int main(int argc, char **argv) { return 0; }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Library pthread found: YES
+Build targets in project: 3
+Found ninja-1.8.2 at /usr/bin/ninja

@@ -1,0 +1,122 @@
+[
+  {
+    "directory": "/media/xaniety/354c4004-8ee6-49a2-ac86-d9fd4f4664d8/FortniteDMA/vmread/builddir",
+    "command": "cc  -Ientry@exe -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c99 -O0 -g -Wno-padded -Wno-sign-conversion -Wno-padded -Wno-documentation-unknown-command -Wno-missing-variable-declarations -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-weak-vtables -Wl,--start-group -lX11 -Wl,--end-group -pthread -Wno-missing-prototypes -D_POSIX_C_SOURCE=200809L -D_DEFAULT_SOURCE -pedantic -DMVERBOSE=4 -DMTR_ENABLED -DREAD_CHECK -DLMODE=MODE_EXTERNAL -fsanitize=address -MD -MQ 'entry@exe/mem.c.o' -MF 'entry@exe/mem.c.o.d' -o 'entry@exe/mem.c.o' -c ../mem.c",
+    "file": "../mem.c"
+  },
+  {
+    "directory": "/media/xaniety/354c4004-8ee6-49a2-ac86-d9fd4f4664d8/FortniteDMA/vmread/builddir",
+    "command": "cc  -Ientry@exe -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c99 -O0 -g -Wno-padded -Wno-sign-conversion -Wno-padded -Wno-documentation-unknown-command -Wno-missing-variable-declarations -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-weak-vtables -Wl,--start-group -lX11 -Wl,--end-group -pthread -Wno-missing-prototypes -D_POSIX_C_SOURCE=200809L -D_DEFAULT_SOURCE -pedantic -DMVERBOSE=4 -DMTR_ENABLED -DREAD_CHECK -DLMODE=MODE_EXTERNAL -fsanitize=address -MD -MQ 'entry@exe/wintools.c.o' -MF 'entry@exe/wintools.c.o.d' -o 'entry@exe/wintools.c.o' -c ../wintools.c",
+    "file": "../wintools.c"
+  },
+  {
+    "directory": "/media/xaniety/354c4004-8ee6-49a2-ac86-d9fd4f4664d8/FortniteDMA/vmread/builddir",
+    "command": "cc  -Ientry@exe -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c99 -O0 -g -Wno-padded -Wno-sign-conversion -Wno-padded -Wno-documentation-unknown-command -Wno-missing-variable-declarations -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-weak-vtables -Wl,--start-group -lX11 -Wl,--end-group -pthread -Wno-missing-prototypes -D_POSIX_C_SOURCE=200809L -D_DEFAULT_SOURCE -pedantic -DMVERBOSE=4 -DMTR_ENABLED -DREAD_CHECK -DLMODE=MODE_EXTERNAL -fsanitize=address -MD -MQ 'entry@exe/pmparser.c.o' -MF 'entry@exe/pmparser.c.o.d' -o 'entry@exe/pmparser.c.o' -c ../pmparser.c",
+    "file": "../pmparser.c"
+  },
+  {
+    "directory": "/media/xaniety/354c4004-8ee6-49a2-ac86-d9fd4f4664d8/FortniteDMA/vmread/builddir",
+    "command": "c++  -Ientry@exe -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++14 -O0 -g -Wno-padded -Wno-sign-conversion -Wno-padded -Wno-documentation-unknown-command -Wno-missing-variable-declarations -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-weak-vtables -Wl,--start-group -lX11 -Wl,--end-group -pthread -Wno-padded -Wno-c++98-compat -Wno-padded -Wno-c++98-compat-pedantic -Wno-weak-vtables -Wno-documentation-unknown-command -Wno-old-style-cast -D_POSIX_C_SOURCE=200809L -D_DEFAULT_SOURCE -pedantic -DMVERBOSE=4 -DMTR_ENABLED -DREAD_CHECK -DLMODE=MODE_EXTERNAL -fsanitize=address -MD -MQ 'entry@exe/entry.cpp.o' -MF 'entry@exe/entry.cpp.o.d' -o 'entry@exe/entry.cpp.o' -c ../entry.cpp",
+    "file": "../entry.cpp"
+  },
+  {
+    "directory": "/media/xaniety/354c4004-8ee6-49a2-ac86-d9fd4f4664d8/FortniteDMA/vmread/builddir",
+    "command": "cc  -Ientry@exe -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c99 -O0 -g -Wno-padded -Wno-sign-conversion -Wno-padded -Wno-documentation-unknown-command -Wno-missing-variable-declarations -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-weak-vtables -Wl,--start-group -lX11 -Wl,--end-group -pthread -Wno-missing-prototypes -D_POSIX_C_SOURCE=200809L -D_DEFAULT_SOURCE -pedantic -DMVERBOSE=4 -DMTR_ENABLED -DREAD_CHECK -DLMODE=MODE_EXTERNAL -fsanitize=address -MD -MQ 'entry@exe/vmmem.c.o' -MF 'entry@exe/vmmem.c.o.d' -o 'entry@exe/vmmem.c.o' -c ../vmmem.c",
+    "file": "../vmmem.c"
+  },
+  {
+    "directory": "/media/xaniety/354c4004-8ee6-49a2-ac86-d9fd4f4664d8/FortniteDMA/vmread/builddir",
+    "command": "c++  -Ientry@exe -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++14 -O0 -g -Wno-padded -Wno-sign-conversion -Wno-padded -Wno-documentation-unknown-command -Wno-missing-variable-declarations -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-weak-vtables -Wl,--start-group -lX11 -Wl,--end-group -pthread -Wno-padded -Wno-c++98-compat -Wno-padded -Wno-c++98-compat-pedantic -Wno-weak-vtables -Wno-documentation-unknown-command -Wno-old-style-cast -D_POSIX_C_SOURCE=200809L -D_DEFAULT_SOURCE -pedantic -DMVERBOSE=4 -DMTR_ENABLED -DREAD_CHECK -DLMODE=MODE_EXTERNAL -fsanitize=address -MD -MQ 'entry@exe/hlapi_windll.cpp.o' -MF 'entry@exe/hlapi_windll.cpp.o.d' -o 'entry@exe/hlapi_windll.cpp.o' -c ../hlapi/windll.cpp",
+    "file": "../hlapi/windll.cpp"
+  },
+  {
+    "directory": "/media/xaniety/354c4004-8ee6-49a2-ac86-d9fd4f4664d8/FortniteDMA/vmread/builddir",
+    "command": "c++  -Ientry@exe -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++14 -O0 -g -Wno-padded -Wno-sign-conversion -Wno-padded -Wno-documentation-unknown-command -Wno-missing-variable-declarations -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-weak-vtables -Wl,--start-group -lX11 -Wl,--end-group -pthread -Wno-padded -Wno-c++98-compat -Wno-padded -Wno-c++98-compat-pedantic -Wno-weak-vtables -Wno-documentation-unknown-command -Wno-old-style-cast -D_POSIX_C_SOURCE=200809L -D_DEFAULT_SOURCE -pedantic -DMVERBOSE=4 -DMTR_ENABLED -DREAD_CHECK -DLMODE=MODE_EXTERNAL -fsanitize=address -MD -MQ 'entry@exe/hlapi_winprocess.cpp.o' -MF 'entry@exe/hlapi_winprocess.cpp.o.d' -o 'entry@exe/hlapi_winprocess.cpp.o' -c ../hlapi/winprocess.cpp",
+    "file": "../hlapi/winprocess.cpp"
+  },
+  {
+    "directory": "/media/xaniety/354c4004-8ee6-49a2-ac86-d9fd4f4664d8/FortniteDMA/vmread/builddir",
+    "command": "c++  -Ientry@exe -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++14 -O0 -g -Wno-padded -Wno-sign-conversion -Wno-padded -Wno-documentation-unknown-command -Wno-missing-variable-declarations -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-weak-vtables -Wl,--start-group -lX11 -Wl,--end-group -pthread -Wno-padded -Wno-c++98-compat -Wno-padded -Wno-c++98-compat-pedantic -Wno-weak-vtables -Wno-documentation-unknown-command -Wno-old-style-cast -D_POSIX_C_SOURCE=200809L -D_DEFAULT_SOURCE -pedantic -DMVERBOSE=4 -DMTR_ENABLED -DREAD_CHECK -DLMODE=MODE_EXTERNAL -fsanitize=address -MD -MQ 'entry@exe/hlapi_winprocesslist.cpp.o' -MF 'entry@exe/hlapi_winprocesslist.cpp.o.d' -o 'entry@exe/hlapi_winprocesslist.cpp.o' -c ../hlapi/winprocesslist.cpp",
+    "file": "../hlapi/winprocesslist.cpp"
+  },
+  {
+    "directory": "/media/xaniety/354c4004-8ee6-49a2-ac86-d9fd4f4664d8/FortniteDMA/vmread/builddir",
+    "command": "cc  -Ikmod_example@exe -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c99 -O0 -g -Wno-padded -Wno-sign-conversion -Wno-padded -Wno-documentation-unknown-command -Wno-missing-variable-declarations -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-weak-vtables -Wl,--start-group -lX11 -Wl,--end-group -pthread -Wno-missing-prototypes -D_POSIX_C_SOURCE=200809L -D_DEFAULT_SOURCE -pedantic -DMVERBOSE=4 -DMTR_ENABLED -DREAD_CHECK -DLMODE=MODE_EXTERNAL -fsanitize=address -DKMOD_MEMMAP -MD -MQ 'kmod_example@exe/mem.c.o' -MF 'kmod_example@exe/mem.c.o.d' -o 'kmod_example@exe/mem.c.o' -c ../mem.c",
+    "file": "../mem.c"
+  },
+  {
+    "directory": "/media/xaniety/354c4004-8ee6-49a2-ac86-d9fd4f4664d8/FortniteDMA/vmread/builddir",
+    "command": "cc  -Ikmod_example@exe -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c99 -O0 -g -Wno-padded -Wno-sign-conversion -Wno-padded -Wno-documentation-unknown-command -Wno-missing-variable-declarations -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-weak-vtables -Wl,--start-group -lX11 -Wl,--end-group -pthread -Wno-missing-prototypes -D_POSIX_C_SOURCE=200809L -D_DEFAULT_SOURCE -pedantic -DMVERBOSE=4 -DMTR_ENABLED -DREAD_CHECK -DLMODE=MODE_EXTERNAL -fsanitize=address -DKMOD_MEMMAP -MD -MQ 'kmod_example@exe/wintools.c.o' -MF 'kmod_example@exe/wintools.c.o.d' -o 'kmod_example@exe/wintools.c.o' -c ../wintools.c",
+    "file": "../wintools.c"
+  },
+  {
+    "directory": "/media/xaniety/354c4004-8ee6-49a2-ac86-d9fd4f4664d8/FortniteDMA/vmread/builddir",
+    "command": "cc  -Ikmod_example@exe -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c99 -O0 -g -Wno-padded -Wno-sign-conversion -Wno-padded -Wno-documentation-unknown-command -Wno-missing-variable-declarations -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-weak-vtables -Wl,--start-group -lX11 -Wl,--end-group -pthread -Wno-missing-prototypes -D_POSIX_C_SOURCE=200809L -D_DEFAULT_SOURCE -pedantic -DMVERBOSE=4 -DMTR_ENABLED -DREAD_CHECK -DLMODE=MODE_EXTERNAL -fsanitize=address -DKMOD_MEMMAP -MD -MQ 'kmod_example@exe/pmparser.c.o' -MF 'kmod_example@exe/pmparser.c.o.d' -o 'kmod_example@exe/pmparser.c.o' -c ../pmparser.c",
+    "file": "../pmparser.c"
+  },
+  {
+    "directory": "/media/xaniety/354c4004-8ee6-49a2-ac86-d9fd4f4664d8/FortniteDMA/vmread/builddir",
+    "command": "c++  -Ikmod_example@exe -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++14 -O0 -g -Wno-padded -Wno-sign-conversion -Wno-padded -Wno-documentation-unknown-command -Wno-missing-variable-declarations -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-weak-vtables -Wl,--start-group -lX11 -Wl,--end-group -pthread -Wno-padded -Wno-c++98-compat -Wno-padded -Wno-c++98-compat-pedantic -Wno-weak-vtables -Wno-documentation-unknown-command -Wno-old-style-cast -D_POSIX_C_SOURCE=200809L -D_DEFAULT_SOURCE -pedantic -DMVERBOSE=4 -DMTR_ENABLED -DREAD_CHECK -DLMODE=MODE_EXTERNAL -fsanitize=address -DKMOD_MEMMAP -MD -MQ 'kmod_example@exe/entry.cpp.o' -MF 'kmod_example@exe/entry.cpp.o.d' -o 'kmod_example@exe/entry.cpp.o' -c ../entry.cpp",
+    "file": "../entry.cpp"
+  },
+  {
+    "directory": "/media/xaniety/354c4004-8ee6-49a2-ac86-d9fd4f4664d8/FortniteDMA/vmread/builddir",
+    "command": "cc  -Ikmod_example@exe -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c99 -O0 -g -Wno-padded -Wno-sign-conversion -Wno-padded -Wno-documentation-unknown-command -Wno-missing-variable-declarations -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-weak-vtables -Wl,--start-group -lX11 -Wl,--end-group -pthread -Wno-missing-prototypes -D_POSIX_C_SOURCE=200809L -D_DEFAULT_SOURCE -pedantic -DMVERBOSE=4 -DMTR_ENABLED -DREAD_CHECK -DLMODE=MODE_EXTERNAL -fsanitize=address -DKMOD_MEMMAP -MD -MQ 'kmod_example@exe/intmem.c.o' -MF 'kmod_example@exe/intmem.c.o.d' -o 'kmod_example@exe/intmem.c.o' -c ../intmem.c",
+    "file": "../intmem.c"
+  },
+  {
+    "directory": "/media/xaniety/354c4004-8ee6-49a2-ac86-d9fd4f4664d8/FortniteDMA/vmread/builddir",
+    "command": "c++  -Ikmod_example@exe -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++14 -O0 -g -Wno-padded -Wno-sign-conversion -Wno-padded -Wno-documentation-unknown-command -Wno-missing-variable-declarations -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-weak-vtables -Wl,--start-group -lX11 -Wl,--end-group -pthread -Wno-padded -Wno-c++98-compat -Wno-padded -Wno-c++98-compat-pedantic -Wno-weak-vtables -Wno-documentation-unknown-command -Wno-old-style-cast -D_POSIX_C_SOURCE=200809L -D_DEFAULT_SOURCE -pedantic -DMVERBOSE=4 -DMTR_ENABLED -DREAD_CHECK -DLMODE=MODE_EXTERNAL -fsanitize=address -DKMOD_MEMMAP -MD -MQ 'kmod_example@exe/hlapi_windll.cpp.o' -MF 'kmod_example@exe/hlapi_windll.cpp.o.d' -o 'kmod_example@exe/hlapi_windll.cpp.o' -c ../hlapi/windll.cpp",
+    "file": "../hlapi/windll.cpp"
+  },
+  {
+    "directory": "/media/xaniety/354c4004-8ee6-49a2-ac86-d9fd4f4664d8/FortniteDMA/vmread/builddir",
+    "command": "c++  -Ikmod_example@exe -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++14 -O0 -g -Wno-padded -Wno-sign-conversion -Wno-padded -Wno-documentation-unknown-command -Wno-missing-variable-declarations -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-weak-vtables -Wl,--start-group -lX11 -Wl,--end-group -pthread -Wno-padded -Wno-c++98-compat -Wno-padded -Wno-c++98-compat-pedantic -Wno-weak-vtables -Wno-documentation-unknown-command -Wno-old-style-cast -D_POSIX_C_SOURCE=200809L -D_DEFAULT_SOURCE -pedantic -DMVERBOSE=4 -DMTR_ENABLED -DREAD_CHECK -DLMODE=MODE_EXTERNAL -fsanitize=address -DKMOD_MEMMAP -MD -MQ 'kmod_example@exe/hlapi_winprocess.cpp.o' -MF 'kmod_example@exe/hlapi_winprocess.cpp.o.d' -o 'kmod_example@exe/hlapi_winprocess.cpp.o' -c ../hlapi/winprocess.cpp",
+    "file": "../hlapi/winprocess.cpp"
+  },
+  {
+    "directory": "/media/xaniety/354c4004-8ee6-49a2-ac86-d9fd4f4664d8/FortniteDMA/vmread/builddir",
+    "command": "c++  -Ikmod_example@exe -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++14 -O0 -g -Wno-padded -Wno-sign-conversion -Wno-padded -Wno-documentation-unknown-command -Wno-missing-variable-declarations -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-weak-vtables -Wl,--start-group -lX11 -Wl,--end-group -pthread -Wno-padded -Wno-c++98-compat -Wno-padded -Wno-c++98-compat-pedantic -Wno-weak-vtables -Wno-documentation-unknown-command -Wno-old-style-cast -D_POSIX_C_SOURCE=200809L -D_DEFAULT_SOURCE -pedantic -DMVERBOSE=4 -DMTR_ENABLED -DREAD_CHECK -DLMODE=MODE_EXTERNAL -fsanitize=address -DKMOD_MEMMAP -MD -MQ 'kmod_example@exe/hlapi_winprocesslist.cpp.o' -MF 'kmod_example@exe/hlapi_winprocesslist.cpp.o.d' -o 'kmod_example@exe/hlapi_winprocesslist.cpp.o' -c ../hlapi/winprocesslist.cpp",
+    "file": "../hlapi/winprocesslist.cpp"
+  },
+  {
+    "directory": "/media/xaniety/354c4004-8ee6-49a2-ac86-d9fd4f4664d8/FortniteDMA/vmread/builddir",
+    "command": "cc  -Ientry@sha -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c99 -O0 -g -fPIC -D_POSIX_C_SOURCE=200809L -D_DEFAULT_SOURCE -pedantic -DMTR_ENABLED -DREAD_CHECK -DLMODE=MODE_QEMU_INJECT -DMVERBOSE=4 -MD -MQ 'entry@sha/mem.c.o' -MF 'entry@sha/mem.c.o.d' -o 'entry@sha/mem.c.o' -c ../mem.c",
+    "file": "../mem.c"
+  },
+  {
+    "directory": "/media/xaniety/354c4004-8ee6-49a2-ac86-d9fd4f4664d8/FortniteDMA/vmread/builddir",
+    "command": "cc  -Ientry@sha -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c99 -O0 -g -fPIC -D_POSIX_C_SOURCE=200809L -D_DEFAULT_SOURCE -pedantic -DMTR_ENABLED -DREAD_CHECK -DLMODE=MODE_QEMU_INJECT -DMVERBOSE=4 -MD -MQ 'entry@sha/wintools.c.o' -MF 'entry@sha/wintools.c.o.d' -o 'entry@sha/wintools.c.o' -c ../wintools.c",
+    "file": "../wintools.c"
+  },
+  {
+    "directory": "/media/xaniety/354c4004-8ee6-49a2-ac86-d9fd4f4664d8/FortniteDMA/vmread/builddir",
+    "command": "cc  -Ientry@sha -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c99 -O0 -g -fPIC -D_POSIX_C_SOURCE=200809L -D_DEFAULT_SOURCE -pedantic -DMTR_ENABLED -DREAD_CHECK -DLMODE=MODE_QEMU_INJECT -DMVERBOSE=4 -MD -MQ 'entry@sha/pmparser.c.o' -MF 'entry@sha/pmparser.c.o.d' -o 'entry@sha/pmparser.c.o' -c ../pmparser.c",
+    "file": "../pmparser.c"
+  },
+  {
+    "directory": "/media/xaniety/354c4004-8ee6-49a2-ac86-d9fd4f4664d8/FortniteDMA/vmread/builddir",
+    "command": "c++  -Ientry@sha -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++14 -O0 -g -fPIC -D_POSIX_C_SOURCE=200809L -D_DEFAULT_SOURCE -pedantic -DMTR_ENABLED -DREAD_CHECK -DLMODE=MODE_QEMU_INJECT -DMVERBOSE=4 -MD -MQ 'entry@sha/entry.cpp.o' -MF 'entry@sha/entry.cpp.o.d' -o 'entry@sha/entry.cpp.o' -c ../entry.cpp",
+    "file": "../entry.cpp"
+  },
+  {
+    "directory": "/media/xaniety/354c4004-8ee6-49a2-ac86-d9fd4f4664d8/FortniteDMA/vmread/builddir",
+    "command": "cc  -Ientry@sha -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c99 -O0 -g -fPIC -D_POSIX_C_SOURCE=200809L -D_DEFAULT_SOURCE -pedantic -DMTR_ENABLED -DREAD_CHECK -DLMODE=MODE_QEMU_INJECT -DMVERBOSE=4 -MD -MQ 'entry@sha/intmem.c.o' -MF 'entry@sha/intmem.c.o.d' -o 'entry@sha/intmem.c.o' -c ../intmem.c",
+    "file": "../intmem.c"
+  },
+  {
+    "directory": "/media/xaniety/354c4004-8ee6-49a2-ac86-d9fd4f4664d8/FortniteDMA/vmread/builddir",
+    "command": "c++  -Ientry@sha -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++14 -O0 -g -fPIC -D_POSIX_C_SOURCE=200809L -D_DEFAULT_SOURCE -pedantic -DMTR_ENABLED -DREAD_CHECK -DLMODE=MODE_QEMU_INJECT -DMVERBOSE=4 -MD -MQ 'entry@sha/hlapi_windll.cpp.o' -MF 'entry@sha/hlapi_windll.cpp.o.d' -o 'entry@sha/hlapi_windll.cpp.o' -c ../hlapi/windll.cpp",
+    "file": "../hlapi/windll.cpp"
+  },
+  {
+    "directory": "/media/xaniety/354c4004-8ee6-49a2-ac86-d9fd4f4664d8/FortniteDMA/vmread/builddir",
+    "command": "c++  -Ientry@sha -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++14 -O0 -g -fPIC -D_POSIX_C_SOURCE=200809L -D_DEFAULT_SOURCE -pedantic -DMTR_ENABLED -DREAD_CHECK -DLMODE=MODE_QEMU_INJECT -DMVERBOSE=4 -MD -MQ 'entry@sha/hlapi_winprocess.cpp.o' -MF 'entry@sha/hlapi_winprocess.cpp.o.d' -o 'entry@sha/hlapi_winprocess.cpp.o' -c ../hlapi/winprocess.cpp",
+    "file": "../hlapi/winprocess.cpp"
+  },
+  {
+    "directory": "/media/xaniety/354c4004-8ee6-49a2-ac86-d9fd4f4664d8/FortniteDMA/vmread/builddir",
+    "command": "c++  -Ientry@sha -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++14 -O0 -g -fPIC -D_POSIX_C_SOURCE=200809L -D_DEFAULT_SOURCE -pedantic -DMTR_ENABLED -DREAD_CHECK -DLMODE=MODE_QEMU_INJECT -DMVERBOSE=4 -MD -MQ 'entry@sha/hlapi_winprocesslist.cpp.o' -MF 'entry@sha/hlapi_winprocesslist.cpp.o.d' -o 'entry@sha/hlapi_winprocesslist.cpp.o' -c ../hlapi/winprocesslist.cpp",
+    "file": "../hlapi/winprocesslist.cpp"
+  }
+]
